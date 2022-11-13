@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../es2022"
+		},
+		{
+			"path": "../../Users/82102/Desktop/myapp"
+		},
+		{
+			"path": "../../myapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "es2022"
+	}
+}
